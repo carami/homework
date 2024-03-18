@@ -5,6 +5,7 @@ public class SelectionSort {
     public static void main(String[] args) {
         System.out.println("코드를 구현합니다.");
         System.out.println(",,,,");
+        System.out.println(";;;");
         System.out.println("구현완료!!");
     }
 }
